@@ -1,2 +1,1 @@
-# Voice_Chat-Bot
-Python-based voice-enabled chatbot
+This project is a Python-based voice-enabled chatbot designed to simulate human-like conversation using speech input and output. It leverages natural language processing to detect emotional cues and respond empathetically, making interactions more engaging and personalized.
